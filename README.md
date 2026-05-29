@@ -18,4 +18,4 @@ Sou Douglas, um desenvolvedor apaixonado por informática, tecnologia, e-sports 
           
 
 ## Contato
-- [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/douglas-ara%C3%BAjo-38755923a/)
+- https://www.linkedin.com/in/douglas-ara%C3%BAjo-38755923a/
